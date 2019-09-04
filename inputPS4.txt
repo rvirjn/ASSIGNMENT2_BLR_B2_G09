@@ -1,0 +1,11 @@
+S1 / DM / SDA / WMC / CC
+S2 / DM / NLP / AI / SDA / IP / GM / EC
+S3 / DM / SDA / GM / ML / WMC
+S4 / DM / AI / SDA / IP / GM / ML / WMC / CC
+S5 / NLP / AI / SDA / BD / EC / WMC / CC
+S6 / DM / NLP / AI / BD
+S7 / IP / GM / CC
+S8 / DM / AI / SDA / CC
+S9 / AI / IP / BD / WMC / CC
+S10 / DM / NLP / AI / GM / EC / CC
+S11 / DM / IP / BD / GM / ML
